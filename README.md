@@ -1,16 +1,11 @@
-### Hi there 👋
+## Hello! I am Instellate
+I am a C# Developer that sometimes does JavaScript and TypeScript.  
+I develop mainly discord bots for now but I am extending out to APIs. Currently working on a discord library called [Interacord](https://github.com/Instellate/Interacord), Slash commands for [Anti NSFW](https://top.gg/bot/706054368318980138) and a image board that isn't released *yet*.
 
-<!--
-**Instellate/Instellate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun Facts!
+```
+Status - (Soon) High school student/maybe employed.
+Living - Stockholm, Sweden.
+Languages (Talking) - Fluent in Swedish and (maybe) English.
+Languages (Programming) - C#, JS and TS.
+```

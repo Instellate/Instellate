@@ -9,3 +9,10 @@ Living - Stockholm, Sweden.
 Languages (Talking) - Fluent in Swedish and (maybe) English.
 Languages (Programming) - C#, JS and TS.
 ```
+
+### Want to get in contact?
+You can email me at instellate@gmail.com.  
+I will probably not answer as I don't check that email too much.
+
+My discord username is also Sawa Kyouki#3622.  
+So if you see me anywhere. Feel free to say hello!

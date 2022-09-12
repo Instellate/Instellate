@@ -14,5 +14,5 @@ Languages (Programming) - C#, JS and TS.
 You can email me at instellate@gmail.com.  
 I will probably not answer as I don't check that email too much.
 
-My discord username is also Sawa Kyouki#3622.  
+My discord username is also [Instellate#3622](https://discord.com/users/565197576026980365).  
 So if you see me anywhere. Feel free to say hello!

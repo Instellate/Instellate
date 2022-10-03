@@ -7,7 +7,7 @@ I develop mainly discord bots for now but I am extending out to APIs. Currently 
 Status - (Soon) High school student/maybe employed.
 Living - Stockholm, Sweden.
 Languages (Talking) - Fluent in Swedish and (maybe) English.
-Languages (Programming) - C#, JS and TS.
+Languages (Programming) - C#, C++ (still learning) and JS/TS.
 ```
 
 ### Want to get in contact?

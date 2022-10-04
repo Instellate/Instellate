@@ -8,6 +8,7 @@ Status - (Soon) High school student/maybe employed.
 Living - Stockholm, Sweden.
 Languages (Talking) - Fluent in Swedish and (maybe) English.
 Languages (Programming) - C#, C++ (still learning) and JS/TS.
+Interests - Vocaloid, Anime, VTubers and programming (of course!)
 ```
 
 ### Want to get in contact?

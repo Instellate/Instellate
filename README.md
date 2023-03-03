@@ -4,7 +4,7 @@ I develop mainly discord bots for now but I am extending out to APIs. Currently 
 
 ### Fun Facts!
 ```
-Status - (Soon) High school student/maybe employed.
+Status - student.
 Living - Stockholm, Sweden.
 Languages (Talking) - Fluent in Swedish and (maybe) English.
 Languages (Programming) - C#, C++ (still learning) and JS/TS.
